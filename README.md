@@ -1,14 +1,14 @@
 
 # Netflix Content Trends Dashboard 🎥📊
 
-![Netflix Dashboard Screenshot](final_dashboard_screenshot.png)
+![Netflix Cover Photo](https://github.com/Fouzia0298/Netflix-Content-Trends-Tableau/blob/main/Images/Cover%20photo.png)
 
 ## 📖 Project Overview
 This project was completed as the **Capstone Project** for the 
 [Data Visualization with Tableau Specialization](https://www.coursera.org/specializations/data-visualization-tableau) by UC Davis.
 
 The goal of this project was to explore **Netflix's global catalog** to identify patterns and insights about content type, growth, and audience focus using **Tableau**.
-
+![Netflix Dashboard Screenshot](https://github.com/Fouzia0298/Netflix-Content-Trends-Tableau/blob/main/Images/final%20dashboard.PNG)
 ---
 
 ## 🚀 Key Insights
