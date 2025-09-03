@@ -50,7 +50,11 @@ Netflix-Content-Trends-Tableau/
 ├── netflix_titles.xlsx
 ├── proposal.pdf
 ├── final_dashboard_screenshot.png
-├── reports/
+├── reports/│
+├── milestone_2_data_cleaning.md
+├── milestone_3_exploratory_analysis.md
+├── milestone_4_kpis.md
+└── milestone_5_final_reflection.md
 ```
 
 
